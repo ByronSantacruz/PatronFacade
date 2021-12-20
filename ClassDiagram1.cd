@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ByronSantacruz3BFacade.Biblioteca">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAgAAQAAEAAAAAA=</HashCode>
+      <FileName>Biblioteca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ByronSantacruz3BFacade.Libreria">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAEAA=</HashCode>
+      <FileName>Libreria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ByronSantacruz3BFacade.Plan_Estudios">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAACAAAAAAAAAAAAAABAAIAgAAAAAAAA=</HashCode>
+      <FileName>Plan_Estudios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ByronSantacruz3BFacade.Secretaria">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAggACGIAAAwAAIAIAAAAAAAAAAAggECAA=</HashCode>
+      <FileName>Secretaria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ByronSantacruz3BFacade.Matriculacion">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEACAAAAAAAAAAAAAAAAAAAAEAAABAAAQAA=</HashCode>
+      <FileName>Matriculacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
